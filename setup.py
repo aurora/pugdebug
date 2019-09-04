@@ -1,3 +1,5 @@
+# python3 setup.py py2app -A
+
 from setuptools import setup
 
 APP = ['app.py']
